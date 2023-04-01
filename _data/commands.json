@@ -208,7 +208,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Adds your name to the Name Queue.",
     "name": "Join queue",
     "usage": "!addname",
     "userLevel": "Anyone",
