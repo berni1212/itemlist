@@ -10394,13 +10394,13 @@
 	},
 	{
 		"abr": "fleshflies",
-		"price": 17,
+		"price": 1900,
 		"category": "Animals",
 		"defname": "GR_FleshFlies"
 	},
 	{
 		"abr": "fleshgrowth",
-		"price": 17,
+		"price": 1900,
 		"category": "Animals",
 		"defname": "GR_FleshGrowth"
 	},
