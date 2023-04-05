@@ -10406,13 +10406,13 @@
 	},
 	{
 		"abr": "fleshmonstrosity",
-		"price": 17,
+		"price": 1900,
 		"category": "Animals",
 		"defname": "GR_FleshMonstrosity"
 	},
 	{
 		"abr": "fleshling",
-		"price": 17,
+		"price": 1900,
 		"category": "Animals",
 		"defname": "GR_Fleshling"
 	},
