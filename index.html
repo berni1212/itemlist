@@ -185,6 +185,21 @@ title: Store
 {%- endif -%}
 
 
+{%- if kindsForDisplay.size > 0 -%}
+    {% capture headers %}
+        {{ site.data.language.name_header }},{{ site.data.language.cost_header }}
+    {% endcapture %}
+
+    {%- include store_tab.html
+        id='pawns'
+        type='Pawn'
+        buyName=buyName
+        priceDataHeaders=site.data.language.price_header
+        headers=headers
+        displayData=kindsForDisplay
+        placeholder=site.data.language.search_pawn_kinds -%}
+{%- endif -%}
+
 <script>
     window.addEventListener("load", function (event) {
         var query = "";
