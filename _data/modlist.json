@@ -74,8 +74,8 @@
   {
     "author": "Adamas",
     "name": "Hospitality: Casino",
-    "steamId": "2939292644",
-    "version": "1.4.0.0"
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "NavySeal",
@@ -1569,7 +1569,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.7.7"
+    "version": "2.7.9"
   },
   {
     "author": "legodude17",
@@ -1752,6 +1752,12 @@
     "version": "1.4"
   },
   {
+    "author": "Mehni",
+    "name": "Dismiss Trader (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1768,5 +1774,11 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.b6"
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
   }
 ]

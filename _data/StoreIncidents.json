@@ -3,12 +3,12 @@
 	{
 		"abr": "tornado",
 		"price": 800,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 360,
 		"karmatype": "Good"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 2917,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -183,7 +183,7 @@
 	{
 		"abr": "travlergroup",
 		"price": 80,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitorgroup",
@@ -217,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -243,7 +243,7 @@
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 2917,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
