@@ -3554,7 +3554,7 @@
       },
       "description": "Some mad scientist out there decided lets make people bigger, Mercs decided Lets have it punch things.",
       "defName": "Race_Giant",
-      "enabled": true,
+      "enabled": false,
       "name": "Giant",
       "price": 4583
     },
@@ -3575,7 +3575,7 @@
       },
       "description": "Mercs looked to Glitterworld cloning to fill the demand for cheap Mercs who don't need a cut of the loot. Things drastically got out hand as more clones were demanded by every mercenary band out there. The 'Abominations' as they are now called are the result of vat grown soldiers being rushed. Coupled with the Mercs UEPOS Rifles abominations have found comfortable if short lived role as Mercenary basic infantry.",
       "defName": "Race_VatgrownAbomination",
-      "enabled": true,
+      "enabled": false,
       "name": "Vatgrown Abomination",
       "price": 1250
     }
