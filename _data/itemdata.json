@@ -5846,7 +5846,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 50,
+    "QuantityLimit": 5,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -64920,7 +64920,7 @@
     "KarmaType": null
   },
   "RPP_Bot_Crafter_I": {
-    "CustomName": null,
+    "CustomName": "crafterbot(i)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -64940,7 +64940,7 @@
     "KarmaType": null
   },
   "RPP_Bot_Crafter_II": {
-    "CustomName": null,
+    "CustomName": "crafterbot(ii)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -64960,7 +64960,7 @@
     "KarmaType": null
   },
   "RPP_Bot_Crafter_III": {
-    "CustomName": null,
+    "CustomName": "crafterbot(iii)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -64980,7 +64980,7 @@
     "KarmaType": null
   },
   "RPP_Bot_Crafter_IV": {
-    "CustomName": null,
+    "CustomName": "crafterbot(iv)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -65000,7 +65000,7 @@
     "KarmaType": null
   },
   "RPP_Bot_Crafter_V": {
-    "CustomName": null,
+    "CustomName": "crafterbot(v)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -74457,6 +74457,46 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Medical IVs",
+    "KarmaType": null
+  },
+  "WaterTrough": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Bad Hygiene",
+    "KarmaType": null
+  },
+  "PetWaterBowl": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
   "meatpie": {
